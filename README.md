@@ -58,6 +58,5 @@ python manage.py migrate
 pyhon manage.py runserver
 ```
 
-![Foto](https://1drv.ms/i/s!AnmeK5nvjEYzlB0HdA-lj37djKxo?e=ph2C3D)
-
+<img src="https://1drv.ms/i/s!AnmeK5nvjEYzlB0HdA-lj37djKxo?e=z7fl1C" alt="fotos" width="320" height="180">
 
