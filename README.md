@@ -59,4 +59,6 @@ python manage.py migrate
 pyhon manage.py runserver
 ```
 
+![fotos](https://github.com/Musadalancikar/n2project/assets/91824791/5e0bbb65-e350-4782-be73-cfda22e9b025)
+
 
