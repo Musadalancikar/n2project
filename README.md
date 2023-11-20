@@ -11,9 +11,10 @@ Proje bir kullanıcı detay izleme platfromunun backend çalışmasıdır.
 ## Kurulum
 
 Öncelikle gereksinimlerin yüklü olduğundan emin olun. Python, Django, rest_framework yüklememiz gerek. Proje Visual Studio Code IDE kullanılmıştır.
-
+```
 pip install django
 pip install djangorestframework
+```
 
 ## Uygulama
 
@@ -58,5 +59,4 @@ python manage.py migrate
 pyhon manage.py runserver
 ```
 
-<img src="https://1drv.ms/i/s!AnmeK5nvjEYzlB0HdA-lj37djKxo?e=z7fl1C" alt="fotos" width="320" height="180">
 
